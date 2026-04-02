@@ -1,0 +1,51 @@
+name: my_asset_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI组件
+  flutter_slidable: ^3.0.0
+  cupertino_icons: ^1.0.8
+
+  # 数据库与存储
+  sqflite: ^2.3.0
+  path: ^1.8.0
+  path_provider: ^2.1.1      # 文件路径获取
+
+  # 数据处理
+  intl: ^0.19.0
+  uuid: ^3.0.7
+
+  # 图片功能
+  image_picker: ^1.0.4       # 图片选择器
+  photo_view: ^0.14.0        # 图片查看器
+
+  # 文件操作
+  share_plus: ^8.0.2         # 文件分享
+
+  # 图像处理
+  image: ^4.1.3              # 图像处理
+
+  # 网络相关（为备份同步准备）
+  http: ^1.1.0               # HTTP客户端
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # 相机权限配置
+  assets:
+    - assets/images/
