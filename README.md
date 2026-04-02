@@ -6,11 +6,9 @@ email：lieyan16@qq.com
 
 ##项目截图
 > 记录你拥有的每一件物品，算清它们每天“花”了你多少钱。
-| ![主页](https://free.picui.cn/free/2026/04/02/69ce7ac575dc3.jpg) | ![添加资产](https://free.picui.cn/free/2026/04/02/69ce7ac544bc6.jpg) |
-
-| 设置页 | 统计图表 |
-|:---:|:---:|
-| ![设置页](https://free.picui.cn/free/2026/04/02/69ce7ac58d633.jpg) | ![图表](https://free.picui.cn/free/2026/04/02/69ce7ac55e632.png) |
+| 1 | 2 | 3 | 4 |
+|:---:|:---:|:---:|:---:|
+| ![设置页](https://free.picui.cn/free/2026/04/02/69ce7ac58d633.jpg) | ![图表](https://free.picui.cn/free/2026/04/02/69ce7ac55e632.png) ![主页](https://free.picui.cn/free/2026/04/02/69ce7ac575dc3.jpg) | ![添加资产](https://free.picui.cn/free/2026/04/02/69ce7ac544bc6.jpg)|
 ---
 
 ## 📌 项目背景
